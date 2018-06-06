@@ -1,0 +1,10 @@
+c:\users\user\source\repos\SCHEMING_WILDCAT_GUI\SCHEMING_WILDCAT_GUI\bin\Debug\SCHEMING_WILDCAT_GUI.exe.config
+c:\users\user\source\repos\SCHEMING_WILDCAT_GUI\SCHEMING_WILDCAT_GUI\bin\Debug\SCHEMING_WILDCAT_GUI.exe
+c:\users\user\source\repos\SCHEMING_WILDCAT_GUI\SCHEMING_WILDCAT_GUI\bin\Debug\SCHEMING_WILDCAT_GUI.pdb
+c:\users\user\source\repos\SCHEMING_WILDCAT_GUI\SCHEMING_WILDCAT_GUI\obj\Debug\SCHEMING_WILDCAT_GUI.csprojAssemblyReference.cache
+c:\users\user\source\repos\SCHEMING_WILDCAT_GUI\SCHEMING_WILDCAT_GUI\obj\Debug\SCHEMING_WILDCAT_GUI.Form1.resources
+c:\users\user\source\repos\SCHEMING_WILDCAT_GUI\SCHEMING_WILDCAT_GUI\obj\Debug\SCHEMING_WILDCAT_GUI.Properties.Resources.resources
+c:\users\user\source\repos\SCHEMING_WILDCAT_GUI\SCHEMING_WILDCAT_GUI\obj\Debug\SCHEMING_WILDCAT_GUI.csproj.GenerateResource.cache
+c:\users\user\source\repos\SCHEMING_WILDCAT_GUI\SCHEMING_WILDCAT_GUI\obj\Debug\SCHEMING_WILDCAT_GUI.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SCHEMING_WILDCAT_GUI\SCHEMING_WILDCAT_GUI\obj\Debug\SCHEMING_WILDCAT_GUI.exe
+c:\users\user\source\repos\SCHEMING_WILDCAT_GUI\SCHEMING_WILDCAT_GUI\obj\Debug\SCHEMING_WILDCAT_GUI.pdb
